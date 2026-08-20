@@ -1,0 +1,7 @@
+numpy>=1.24
+matplotlib>=3.7
+pytest>=7.4
+
+# Optional backends (install if you want the corresponding interface)
+# pybullet>=3.2.5
+# rospy / rclpy + moveit_commander  (ROS 1 / ROS 2, not on PyPI as a single package)
